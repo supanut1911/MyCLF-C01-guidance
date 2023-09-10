@@ -1,6 +1,6 @@
 # MyCLF-C01-guidance with following 4 domains:
 
-### Cloud Concept
+### 🟦 Cloud Concept
 
     What is cloud Computing
       - 6 advantage of cloud
@@ -16,12 +16,12 @@
 
 ---
 
-### Security Compliance
+### 🟥 Security Compliance
 
 ---
 
-### Technology
+### 🟧 Technology
 
 ---
 
-### Bill & Pricing
+### 🟩 Bill & Pricing
