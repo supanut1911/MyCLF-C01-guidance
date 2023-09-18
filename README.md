@@ -18,7 +18,7 @@
 
 ### 🟥 Security Compliance
 
--a
+    Share responsibility
 
 ---
 
