@@ -87,7 +87,6 @@
           - Fault tolerance
           - Service limit
 
-
 ---
 
 ### 🟧 Technology
