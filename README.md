@@ -2,17 +2,37 @@
 
 ### 🟦 Cloud Concept
 
-    ◆ What is cloud Computing
-      - 6 advantage of cloud
-      - economic of scale
+    ◆ 6 advantage of cloud
+      - Reliability                        -> ** "Stop guress capacity" **
+      - Agility, Elasticity, Scalability   -> ** "Increase speed" **
+      - Pay-as-you-go                      -> ** "Stop overspend to data-center" **
+                                           -> ** "Trad fix expense" **
+                                           -> ** "Economic of scale" **
+      - reach global                       -> ** "Fast to reach a global" **
+
+
+    ◆ economic of scale
+      - No Capex, less Opex
+      - reduce labor cost
+      - license
 
     ◆ AWS Architecture & Ecosystem
       - AWS well-architecture framework with 6 pillar
-      - AWS Cloud Adoption framework
-      - Ecosystem
-        - AWS support plan
-        - AWS Market place
-        - AWS professional service & APN
+        - Cost optimizte        -> pay as use
+        - Performance           -> select right compute resource
+        - Security              -> protect info (encrypt)
+        - Reliability           -> recover fast (recover test, horizontal scale)
+        - Operation excellence  -> (Reverse fault plan, anticipate fail)
+        - Sustainability Pillar
+
+
+      - Architect principle
+        - Design for failure
+        - Decouple
+        - Elastic
+        - Think parallel
+        - Automation
+
 
 ---
 
