@@ -33,7 +33,6 @@
         - Think parallel
         - Automation
 
-
 ---
 
 ### 🟥 Security Compliance
@@ -110,6 +109,14 @@
 ---
 
 ### 🟧 Technology
+
+◆ Deployment
+
+◆ Access
+
+◆ Connectivity
+
+◆
 
 ---
 
