@@ -3,12 +3,12 @@
 ### 🟦 Cloud Concept
 
     ◆ 6 advantage of cloud
-      - Reliability                        -> ** "Stop guress capacity" **
-      - Agility, Elasticity, Scalability   -> ** "Increase speed" **
-      - Pay-as-you-go                      -> ** "Stop overspend to data-center" **
-                                           -> ** "Trad fix expense" **
-                                           -> ** "Economic of scale" **
-      - reach global                       -> ** "Fast to reach a global" **
+      - Reliability                        ->  "Stop guress capacity"
+      - Agility, Elasticity, Scalability   ->  "Increase speed "
+      - Pay-as-you-go                      ->  "Stop overspend to data-center"
+                                           ->  "Trad fix expense"
+                                           ->  "Economic of scale"
+      - reach global                       ->  "Fast to reach a global"
 
 
     ◆ economic of scale
@@ -114,9 +114,23 @@
 
 ◆ Access
 
+- Cli
+
+- AWS Console
+
 ◆ Connectivity
 
-◆
+◆ Compute
+
+◆ Storage
+
+◆ Database
+
+◆ Data analytic
+
+◆ Network
+
+◆ Machine learning
 
 ---
 
